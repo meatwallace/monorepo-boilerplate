@@ -14,5 +14,6 @@ export const env = envalid.cleanEnv(
     REACT_APP_API_URL: envalid.url({
       devDefault: 'http://localhost:3001/graphql',
     }),
+    REACT_APP_DISABLE_MSW: envalid.bool({ default: true, devDefault: false }),
   },
 );
