@@ -8798,6 +8798,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:10.0.0"],
             ["envalid", "npm:7.1.0"],
             ["graphql", "npm:15.5.0"],
+            ["jest-extended", "npm:0.11.5"],
             ["nodemon", "npm:2.0.7"],
             ["ts-node", "virtual:28199e890ccb2141514ab0b678512d86c29e103d24b763c23514ff98020c0bddfc2edb18e4f95c50c0d57661f63e37876ad09f53ef887113fef0f9249126f462#npm:10.0.0"],
             ["typescript", "patch:typescript@npm%3A4.2.4#builtin<compat/typescript>::version=4.2.4&hash=a45b0e"]
